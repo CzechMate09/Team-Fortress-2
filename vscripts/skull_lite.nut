@@ -188,6 +188,7 @@ function SkullThink(index, data) {
 		if (traceTable.hit) {
 			speed *= 5
 		}
+
 		//DebugDrawBox(skullOrigin, hullmin, hullmax, 255, 0, 0, 100, 0)
 
 		direction *= speed * FrameTime()
