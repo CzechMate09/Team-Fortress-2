@@ -1,1 +1,1 @@
-Stuff fo TF2
+Stuff for TF2
